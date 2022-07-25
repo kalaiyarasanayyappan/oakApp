@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Index</title>
+<title> MVC Index</title>
 </head>
 <body>
-<h1>Hello
+<h1>MVC Index
 </h1>
 </body>
 </html>
